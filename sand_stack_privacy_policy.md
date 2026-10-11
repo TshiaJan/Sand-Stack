@@ -1,6 +1,7 @@
 # Privacy Policy for Sand Stack: Colour Pour
 
 **Last Updated:** September 17, 2026
+email address janaire.dev@gmail.com
 
 Thank you for playing **Sand Stack: Colour Pour** ("we", "our", or "the Game"). Your privacy is deeply important to us. This Privacy Policy explains our practices regarding data collection, usage, and disclosure when you play our game on mobile devices, tablets, or web browsers.
 
